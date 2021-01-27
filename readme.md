@@ -1,3 +1,4 @@
+<img src="https://s2.gifyu.com/images/weather_app.gif"/><br>
 NAME : weather_app<br>
 DESCRIPTION : Weather app showing weather details of Dehradun<br>
 CREATED BY : Aashish Loknath Panigrahi<br>
