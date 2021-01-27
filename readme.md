@@ -1,8 +1,8 @@
-NAME : weather_app
-DESCRIPTION : Weather app showing weather details of Dehradun
-CREATED BY : Aashish Loknath Panigrahi
+NAME : weather_app<br>
+DESCRIPTION : Weather app showing weather details of Dehradun<br>
+CREATED BY : Aashish Loknath Panigrahi<br>
 
-WHAT IT DOES : index.js script file fetches weather data of Dehradun & stores the data in db.json file. json-server allows the db.json file to be accessed as a REST API.
+WHAT IT DOES : index.js script file fetches weather data of Dehradun & stores the data in db.json file. json-server allows the db.json file to be accessed as a REST API.<br>
 
 TO INSTALL PACKAGES IN THE CONFIG.JS FILE : npm install
 HOW TO RUN (USE IN THIS PARTICULAR ORDER) :
